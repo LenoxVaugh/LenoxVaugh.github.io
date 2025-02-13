@@ -1,123 +1,66 @@
 ---
+title: "Bui Vinh Loc - Portfolio"
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 👋 Hi, I'm Bui Vinh Loc  
+**Artificial Intelligence Engineer** passionate about Machine Learning, Backend Development, and API Design.
 
-[Link to another page](./another-page.html).
+## 📌 About Me
+I am an innovative **Artificial Intelligence Engineer** with a strong foundation in **software development and problem-solving**. I thrive in **collaborative environments** and continuously explore emerging technologies to build impactful solutions.
 
-There should be whitespace between paragraphs.
+## 🛠 Technical Skills
+- **Programming:** Python, R, C#, HTML  
+- **Frameworks & Libraries:** NumPy, Pandas, Keras, PyTorch, Seaborn, Django, Scikit-learn  
+- **Databases:** Microsoft SQL Server, MySQL, MongoDB  
+- **Development Tools:** Jira, Trello  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 💼 Work Experience
+### **Internship – BackEnd Software Engineer**  
+**FPT Software Academy** (01/2024 - 05/2024)  
+- Developed and maintained **RESTful APIs** using **Spring Boot**.  
+- Integrated APIs with **third-party services** to enhance application performance.  
+- Optimized relational databases (**MySQL, PostgreSQL**) and implemented **ORM tools** like Hibernate.  
+- Collaborated with **frontend developers, designers, and product managers**.  
+- Utilized **Jira** and **Trello** for efficient project management.  
 
-# Header 1
+## 🎓 Education
+### **FPT University**  
+- **Major:** Artificial Intelligence  
+- **GPA:** 3.29/4  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 📜 Certifications
+- 🏅 **IBM Full Stack Software Developer Certification**  
+- 📊 **Exploratory Data Analysis for Machine Learning Diploma**  
+- 💼 **Executive Office Professional Certification Program**  
 
-## Header 2
+## 🚀 Projects
+### **Tomato Quality Automatic Assessment for Harvesting** *(Completed)*
+Developed an AI-powered system to assess tomato quality for efficient harvesting.  
+- **Technologies Used:** Python, OpenCV, TensorFlow  
+- **Key Contributions:** Image processing, model training, and evaluation  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### **Chatbot Q&A about Socialism** *(Completed)*
+Built an intelligent chatbot capable of answering questions related to socialism.  
+- **Technologies Used:** Python, NLP (Natural Language Processing), Flask  
+- **Key Contributions:** Model training, chatbot logic development  
 
-### Header 3
+### **Personalized Outfit Analysis and Recommendations** *(In Progress)*
+Developing an AI-based recommendation system to analyze and suggest personalized outfits.  
+- **Technologies Used:** Deep Learning, Computer Vision, CLIP, BLIP  
+- **Key Contributions:** Image retrieval, model training, system optimization  
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## 🏆 Personal Achievements
+- 🥉 **Consolation Prize – Young Informatics Award (2020)**  
+- 🎖 **Participation in Computer Science Competitions**  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 🌍 Languages
+- **Vietnamese:** Native  
+- **English:** High Intermediate (IELTS 6.0 - 2019)  
 
-#### Header 4
+## 📩 Contact Me
+- **Email:** [locbv1711@gmail.com](mailto:locbv1711@gmail.com)  
+- **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
