@@ -29,7 +29,7 @@ I am eager to **learn from industry experts, participate in AI research, and con
 - Utilized **Jira** and **Trello** for efficient project management.  
 
 ## 🎓 Education
-### **FPT University**  
+### **FPT University (2021-2025)**  
 - **Major:** Artificial Intelligence  
 - **GPA:** 3.29/4  
 
