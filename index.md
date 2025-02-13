@@ -4,14 +4,14 @@ layout: default
 ---
 
 # 👋 Hi, I'm Bui Vinh Loc  
-**Artificial Intelligence Engineer** passionate about Machine Learning, Backend Development, and API Design.
+**Artificial Intelligence Engineer** passionate about Machine Learning, Deep Learning, and AI System Development.
 
 ## 📌 About Me
-I am an innovative Artificial Intelligence Engineer with a strong foundation in software development and problem-solving. I thrive in collaborative environments and continuously explore emerging technologies to build impactful solutions.
+I am an innovative **Artificial Intelligence Engineer** with a strong foundation in **software development and problem-solving**. I thrive in **collaborative environments** and continuously explore emerging technologies to build impactful solutions.
 
-I am passionate about expanding my expertise in Deep Learning, Computer Vision, and Machine Learning. I actively seek opportunities to improve my skills in model optimization, data analysis, and AI system development. My goal is to stay ahead of technological advancements and apply my knowledge to real-world AI applications that create meaningful impact.
+I am passionate about **expanding my expertise** in **Deep Learning, Computer Vision, and Machine Learning**. I actively seek opportunities to **improve my skills in model optimization, data analysis, and AI system development**. My goal is to stay ahead of technological advancements and apply my knowledge to **real-world AI applications** that create meaningful impact.
 
-I am eager to learn from industry experts, participate in AI research, and continuously challenge myself to grow as an AI engineer. 🚀
+I am eager to **learn from industry experts, participate in AI research, and continuously challenge myself** to grow as an AI engineer. 🚀
 
 ## 🛠 Technical Skills
 - **Programming:** Python, R, C#, HTML  
