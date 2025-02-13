@@ -60,7 +60,7 @@ Developing an AI-based recommendation system to analyze and suggest personalized
 
 ## 📩 Contact Me
 - **Email:** [locbv1711@gmail.com](mailto:locbv1711@gmail.com)  
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
+- **GitHub:** [LenoxVaugh](https://github.com/LenoxVaugh)  
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
 
 ---
