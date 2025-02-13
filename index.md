@@ -61,6 +61,6 @@ Developing an AI-based recommendation system to analyze and suggest personalized
 ## 📩 Contact Me
 - **Email:** [locbv1711@gmail.com](mailto:locbv1711@gmail.com)  
 - **GitHub:** [LenoxVaugh](https://github.com/LenoxVaugh)  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- **LinkedIn:** [Bui Vinh Loc](https://www.linkedin.com/in/l%E1%BB%99c-b%C3%B9i-48910a317/)  
 
 ---
