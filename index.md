@@ -17,7 +17,7 @@ I am eager to **learn from industry experts, participate in AI research, and con
 - **Programming:** Python, R, C#, HTML  
 - **Frameworks & Libraries:** NumPy, Pandas, Keras, PyTorch, Seaborn, Django, Scikit-learn  
 - **Databases:** Microsoft SQL Server, MySQL, MongoDB  
-- **Development Tools:** Jira, Trello  
+- **Development Tools:** Jira, Trello, Visual Studio Code, Stack Overflow  
 
 ## 💼 Work Experience
 ### **Internship – BackEnd Software Engineer**  
