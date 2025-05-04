@@ -2,5 +2,4 @@ theme: jekyll-theme-minimal
 title: "Bui Vinh Loc - Portfolio"
 logo: "assets/img/logo.png"
 description: "Một website giới thiệu các kỹ năng, dự án và kinh nghiệm của tôi trong lĩnh vực phát triển phần mềm và AI."
-show_downloads: true
 google_analytics:
