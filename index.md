@@ -35,8 +35,7 @@ Tôi mong muốn **học hỏi từ các chuyên gia trong ngành, tham gia nghi
 
 ## 📜 Chứng chỉ
 - 🏅 **Chứng chỉ Nhà phát triển Phần mềm Full Stack của IBM**  
-- 📊 **Chứng chỉ Phân tích Dữ liệu Khám phá cho Machine Learning**  
-- 💼 **Chứng chỉ Chương trình Chuyên viên Văn phòng Điều hành**  
+- 📊 **Chứng chỉ Phân tích và khám phá dữ liệu cho Machine Learning**  
 
 ## 🚀 Dự án cá nhân
 ### **Đánh giá chất lượng cà chua tự động phục vụ thu hoạch** *(Hoàn thành)*
