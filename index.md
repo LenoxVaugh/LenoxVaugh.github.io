@@ -231,12 +231,6 @@ English — High Intermediate (IELTS 6.0)
 
 Email: **locbv1711@gmail.com**  
 Phone: **0834-036-067**
-
-GitHub  
-https://github.com/LenoxVaugh
-
-LinkedIn  
-https://www.linkedin.com/in/l%E1%BB%99c-b%C3%B9i-48910a317/
-
-Portfolio  
-https://lenoxvaugh.github.io
+**GitHub:** [LenoxVaugh](https://github.com/LenoxVaugh)  
+**LinkedIn:** [Bui Vinh Loc](https://www.linkedin.com/in/bui-vinh-loc/)  
+**Portfolio:** [lenoxvaugh.github.io](https://lenoxvaugh.github.io)
