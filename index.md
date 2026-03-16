@@ -4,98 +4,239 @@ layout: default
 ---
 
 # 👋 Hello, I'm Bui Vinh Loc
-**Artificial Intelligence Engineer** passionate about **Machine Learning, Deep Learning, and AI System Development**.
+**AI Engineer (Automation & AI Systems)**
+
+Fresher **AI & Backend Engineer** with hands-on experience in **LLM applications, RAG pipelines, and workflow automation**.  
+I build **AI assistants, chatbots, and intelligent automation systems** using Python, OpenAI, and UiPath.
+
+My focus is on **AI system integration**, combining **machine learning, backend services, and automation** to solve real-world operational problems.
 
 ---
 
-## 📌 About Me
-I’m an **AI Engineer** with a strong foundation in **machine learning, computer vision, and automation systems**.  
-I’m passionate about building **AI-powered applications** that bridge research and real-world use cases — from intelligent chatbots to behavior recognition systems.  
+# 📌 About Me
 
-Currently, I’m working as an **RPA Developer Intern at Indovina Bank (Head Office)**, where I combine **AI workflows and process automation** using **UiPath, Langflow, and Python** to improve operational efficiency.  
+I am passionate about building **practical AI solutions that improve business workflows**.  
+My experience spans across **AI engineering, backend development, and RPA automation**, allowing me to design **end-to-end intelligent systems**.
 
-My career goal is to grow into an **AI System Engineer**, focusing on **model optimization, edge deployment, and AI agents** that create tangible impact in business and technology.
+Currently working as an **RPA Developer Intern at Indovina Bank**, where I develop **automation bots and AI-assisted workflows** that help reduce manual processing and improve operational efficiency.
 
----
+My long-term goal is to become an **AI System Engineer**, focusing on:
 
-## 🛠 Technical Skills
-### **Programming & Tools**
-- **Languages:** Python, R, C#, HTML  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, XGBoost  
-- **Data Analysis:** NumPy, Pandas, Seaborn, Matplotlib  
-- **AI & LLM Development:** Hugging Face Transformers, LangChain, LlamaIndex, BLIP, CLIP  
-- **Model Deployment:** FastAPI, Flask, Streamlit, Docker, TensorRT, ONNX  
-- **Databases & Vector Stores:** MySQL, PostgreSQL, MongoDB, ChromaDB, FAISS  
-- **RPA & Automation:** UiPath, Langflow, Excel Automation  
-- **Tools:** Git, Google Colab, Jupyter Notebook, VS Code, Jira, Trello  
+- AI Agents
+- LLM-powered applications
+- Automation systems
+- Edge AI deployment
 
 ---
 
-## 💼 Work Experience
-### **RPA Developer Intern** — *Indovina Bank Ltd. (Head Office)*  
-*Aug 2025 – Present | Phu Nhuan District, Ho Chi Minh City*  
-- Collaborated with business and IT teams to **analyze and automate repetitive workflows** using **UiPath, Langflow, and internal banking systems**.  
-- Developed, tested, and deployed **RPA bots** to automate data entry, reporting, and document processing tasks.  
-- Integrated **APIs and AI-powered workflows** to connect internal banking systems and optimize operations.  
-- Documented automation processes and supported troubleshooting under senior developer supervision.  
+# 🛠 Technical Skills
 
-### **Backend Software Engineer Intern** — *FPT Software Academy*  
-*Jan 2024 – May 2024 | Ho Chi Minh City*  
-- Developed and maintained **RESTful APIs** using **Spring Boot** and optimized **SQL/ORM operations**.  
-- Integrated APIs with **third-party services**, improving data flow efficiency and backend performance.  
-- Collaborated with designers and PMs in **Agile projects** using **Git** and **Jira**.  
+## Programming
+- Python
+- R
+- C#
+- HTML
+
+## AI & Machine Learning
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- OpenCV
+- XGBoost
+
+## LLM & AI Systems
+- OpenAI API
+- Hugging Face Transformers
+- LangChain
+- LlamaIndex
+- RAG Pipeline Development
+- BLIP / CLIP
+
+## Data Processing
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Backend & System
+- Flask
+- FastAPI
+- REST APIs
+- Docker
+- Postman
+- Logging & Debugging
+
+## Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- ChromaDB
+- FAISS
+
+## Automation & RPA
+- UiPath
+- Excel Automation
+- Workflow Design
+- API Integration
+
+## Tools
+- Git
+- VS Code
+- Google Colab
+- Jupyter Notebook
+- Jira
+- Trello
+
+---
+
+# 💼 Work Experience
+
+## RPA Developer Intern — Indovina Bank Ltd. (Head Office)
+**Aug 2025 – Oct 2025 | Ho Chi Minh City**
+
+- Automated **3 internal banking workflows** using **UiPath**, reducing manual processing time by **~40%**.
+- Integrated **Excel and REST APIs** to synchronize data across systems, saving **2–3 hours per day** for operations teams.
+- Optimized bot execution logic, reducing runtime errors by **~30%**.
+- Collaborated with business teams to identify automation opportunities across **5+ internal processes**.
 
 ---
 
-## 🎓 Education
-### **FPT University (2021–2025)**  
-- **Major:** Artificial Intelligence  
-- **GPA:** 3.29 / 4.0  
+## Backend Software Engineer Intern — FPT Software Academy
+**Jan 2024 – May 2024 | Ho Chi Minh City**
+
+- Developed **RESTful APIs using Flask** for AI-powered applications.
+- Built backend modules for **data processing and third-party API integration**.
+- Optimized **SQL queries and database structure** to improve performance.
+- Worked in **Agile development environments** using Git and Jira.
 
 ---
 
-## 🚀 Projects
-### **AI-Based Abnormal Behavior Detection from Surveillance Cameras** *(In Progress, 09/2025 – Present)*  
-Developing a real-time AI system to detect and classify **abnormal human behaviors** in surveillance footage.  
-- Implemented **CNN + LSTM** architectures for spatio-temporal analysis.  
-- Experimenting with **I3D, SlowFast**, and **YOLOv8** for action recognition and object tracking.  
-- Working on data preprocessing, annotation, and evaluation using **Precision, Recall, F1-score**.  
-- Target: Deploy model for **real-time anomaly detection** in security systems.
+# 🎓 Education
 
-### **Personalized Outfit Insight System** *(Completed, 01/2025 – 05/2025)*  
-Built a web-based fashion assistant capable of generating outfit suggestions from uploaded images.  
-- Used **BLIP** for image captioning and **GPT-based models** for contextual recommendations.  
-- Integrated **Vietnamese translation** and **keyword extraction** for localized e-commerce search.  
-- Delivered outfit recommendations by context (work, dating, events).  
+## FPT University (2021 – 2025)
+Major: **Artificial Intelligence**
 
-### **Chatbot Q&A about Socialism** *(Completed, 09/2024 – 12/2024)*  
-Developed a **Vietnamese chatbot** using **RAG (Retrieval-Augmented Generation)** with **T5/BERT**.  
-- Combined **Flask** backend and **Hugging Face Transformers API** for real-time interaction.  
-- Capable of retrieving contextually accurate answers from political and educational documents.  
-
-### **Tomato Quality Automatic Assessment for Harvesting** *(Completed, 09/2024 – 12/2024)*  
-Built a **deep learning system** to classify tomato ripeness and detect spoilage.  
-- Applied **CNN** architectures for image classification and data augmentation.  
-- Achieved **85%+ accuracy** on farm datasets to support automated harvesting decisions.  
+GPA: **3.0 / 4.0**
 
 ---
 
-## 🏆 Achievements
-- 🥉 **Consolation Prize – Young Informatics Award (2020)**  
-- 🧠 Selected for **AI Research and Development Track** at FPT Software Academy  
+# 🚀 Projects
+
+## AI-Based Abnormal Behavior Detection from Surveillance Cameras
+**Completed | 09/2025 – 12/2025**
+
+Developed a deep learning system to detect abnormal human behavior in surveillance footage.
+
+Key technologies:
+
+- CNN + LSTM for spatio-temporal analysis
+- I3D and SlowFast video models
+- YOLO for object detection and tracking
+
+Features:
+
+- Behavior recognition from video streams
+- Real-time anomaly detection
+- Evaluation using Precision, Recall, and F1-score
+
+Goal: Deploy the system for **security monitoring and surveillance automation**.
 
 ---
 
-## 🌍 Languages
-- **Vietnamese:** Native  
-- **English:** High Intermediate (IELTS 6.0, 2019)  
+## Personalized Outfit Analysis and Recommendation System
+**Completed | 01/2025 – 05/2025**
+
+Built an **AI fashion assistant** capable of analyzing images and recommending outfits.
+
+Key features:
+
+- Image captioning using **BLIP**
+- Outfit recommendations using **GPT models**
+- Vietnamese translation and keyword extraction
+- Integration with **e-commerce product search APIs**
+
+Tech stack:
+
+- Python
+- Flask
+- OpenAI
+- Image captioning models
 
 ---
 
-## 📩 Contact
-- **Email:** [locbv1711@gmail.com](mailto:locbv1711@gmail.com)  
-- **GitHub:** [LenoxVaugh](https://github.com/LenoxVaugh)  
-- **LinkedIn:** [Bui Vinh Loc](https://www.linkedin.com/in/l%E1%BB%99c-b%C3%B9i-48910a317/)  
-- **Portfolio:** [lenoxvaugh.github.io](https://lenoxvaugh.github.io)
+## Chatbot Q&A about Socialism
+**Completed | 09/2024 – 12/2024**
+
+Developed a **Vietnamese knowledge chatbot** using **RAG architecture**.
+
+Features:
+
+- Document retrieval pipeline
+- Context-aware prompt logic
+- Knowledge-based response generation
+
+Tech stack:
+
+- Flask
+- Hugging Face Transformers
+- LangChain
+- RAG pipelines
 
 ---
+
+## Tomato Quality Automatic Assessment for Harvesting
+**Completed | 09/2024 – 12/2024**
+
+Deep learning system for **automatic tomato ripeness classification**.
+
+Key components:
+
+- CNN image classification models
+- Data augmentation and preprocessing
+- Farm dataset evaluation
+
+Result:
+
+- Achieved **85%+ accuracy** on real-world dataset.
+
+---
+
+# 🏆 Certifications
+
+- IBM Full Stack Software Developer Certification  
+- Big Data – University of California San Diego  
+- Natural Language Processing – DeepLearning.AI  
+- DeepLearning.AI TensorFlow Developer
+
+---
+
+# 🧠 Soft Skills
+
+- Analytical thinking
+- Problem solving
+- Collaboration
+- Critical thinking
+- Attention to detail
+
+---
+
+# 🌍 Languages
+
+Vietnamese — Native  
+English — High Intermediate (IELTS 6.0)
+
+---
+
+# 📩 Contact
+
+Email: **locbv1711@gmail.com**  
+Phone: **0834-036-067**
+
+GitHub  
+https://github.com/LenoxVaugh
+
+LinkedIn  
+https://www.linkedin.com/in/l%E1%BB%99c-b%C3%B9i-48910a317/
+
+Portfolio  
+https://lenoxvaugh.github.io
