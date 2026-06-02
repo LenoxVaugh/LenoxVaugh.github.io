@@ -92,7 +92,7 @@ My long-term goal is to become an **AI System Engineer**, focusing on:
 # 💼 Work Experience
 
 ## RPA Developer Intern — Indovina Bank Ltd. (Head Office)
-**Aug 2025 – Oct 2025 | Ho Chi Minh City**
+**Aug 2025 – Dec 2025 | Ho Chi Minh City**
 
 - Automated **3 internal banking workflows** using **UiPath**, reducing manual processing time by **~40%**.
 - Integrated **Excel and REST APIs** to synchronize data across systems, saving **2–3 hours per day** for operations teams.
