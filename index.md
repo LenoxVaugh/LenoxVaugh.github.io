@@ -91,6 +91,21 @@ My long-term goal is to become an **AI System Engineer**, focusing on:
 
 # 💼 Work Experience
 
+## AI Data Annotator (Video Surveillance) — IA - Data Tech Viet Nam
+**July 2026 – Present | Ho Chi Minh City**
+
+- **Annotated and classified real-time video feeds** from international retail chains to generate **structured datasets for human behavior analysis**.
+- **Processed and labeled complex visual data** (e.g., shoplifting, fire hazards, anomalies) to support the **optimization of automated surveillance monitoring**.
+- Ensured **high precision in manual data collection** and entry, strictly **adhering to security protocols** while handling **large-scale CCTV footage**.
+
+## Warehouse Staff — Maison Retail Management International
+**March 2026 – June 2026 | Ho Chi Minh City**
+
+- **Received, sorted and dispatched merchandise** from the central warehouse to retail stores, ensuring **timely and accurate delivery**.
+- **Prepared orders, packed products** and **verified inventory quantities** according to operational procedures.
+- **Managed and organized inventory** for **premium fashion brands** including Pedro and Charles & Keith.
+- Performed **stock checking and inventory reconciliation** to maintain **inventory accuracy**.
+ 
 ## RPA Developer Intern — Indovina Bank Ltd. (Head Office)
 **Aug 2025 – Dec 2025 | Ho Chi Minh City**
 
@@ -125,21 +140,17 @@ GPA: **3.0 / 4.0**
 ## AI-Based Abnormal Behavior Detection from Surveillance Cameras
 **Completed | 09/2025 – 12/2025**
 
-Developed a deep learning system to detect abnormal human behavior in surveillance footage.
+Developed an **end-to-end AI surveillance system** to automatically detect and alert on abnormal human behaviors (fighting, falling, running) in real-time.
 
-Key technologies:
+**Key Technologies:**
+- PyTorch, YOLOv11, SlowFast, Pose Estimation, OpenCV, Flask.
 
-- CNN + LSTM for spatio-temporal analysis
-- I3D and SlowFast video models
-- YOLO for object detection and tracking
-
-Features:
-
-- Behavior recognition from video streams
-- Real-time anomaly detection
-- Evaluation using Precision, Recall, and F1-score
-
-Goal: Deploy the system for **security monitoring and surveillance automation**.
+**Key Features & Contributions:**
+- Integrated **YOLOv11** and **Multi-Object Tracking** for high-speed human detection and continuous ID tracking across video frames.
+- Applied **Pose Estimation (Skeleton extraction)** to isolate human actions and eliminate background noise, optimizing computational resources.
+- Utilized the **SlowFast network architecture** to process spatio-temporal features, achieving high accuracy in complex action recognition.
+- Built a **Flask-based REST API and Web Dashboard** for video uploads, real-time stream processing, and alert visualization.
+- Designed a **scalable architecture plan** for production deployment including Docker, TensorRT optimization, and message queues.
 
 ---
 
