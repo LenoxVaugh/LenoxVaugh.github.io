@@ -77,7 +77,7 @@ My long-term goal is to become an **AI System Engineer**, focusing on:
 # 💼 Work Experience
 
 ## AI Data Annotator (Video Surveillance) — IA - Data Tech Viet Nam
-**July 2026 – Present | Ho Chi Minh City**
+**August 2026 – Present | Ho Chi Minh City**
 
 - **Annotated and classified real-time video feeds** from international retail chains to generate **structured datasets for human behavior analysis**.
 - **Processed and labeled complex visual data** (e.g., shoplifting, fire hazards, anomalies) to support the **optimization of automated surveillance monitoring**.
